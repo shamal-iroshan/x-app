@@ -10,7 +10,7 @@
  * @since 7/24/21
  */
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello X-App");
-    }
+  public static void main(String[] args) {
+    System.out.println("Hello X-App");
+  }
 }
